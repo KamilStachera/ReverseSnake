@@ -1,4 +1,4 @@
-# ReverseSnakePYProject
+# ReverseSnake
 # In development
 
 # TO DO 
